@@ -3,6 +3,8 @@
 
 Reflect Daily is designed to help you develop a consistent journaling habit, track your mood, and gain deeper insights into your personal growth — all in one clean, distraction-free space.
 
+![screen-capture](https://github.com/user-attachments/assets/35334eab-8d99-4bcd-ad2f-fd890b90903a)
+
 ---
 
 ## Core Features
