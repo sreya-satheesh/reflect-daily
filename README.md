@@ -19,10 +19,10 @@ Reflect Daily is designed to help you develop a consistent journaling habit, tra
 ## Installation
 
 1. **Clone the repository**
-   ```bash
+   ```
    git clone https://github.com/sreya-satheesh/reflect-daily.git
    cd reflect-daily
-  ```
+
 2. **Install dependencies**
 ```
 npm install
