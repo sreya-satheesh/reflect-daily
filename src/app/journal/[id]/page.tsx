@@ -84,8 +84,8 @@ export default function JournalEntryPage() {
 
                     {entry.aiReflection && (
                         <div>
-                            <h3 className="font-semibold text-muted-foreground text-sm uppercase tracking-wider mb-2 flex items-center">
-                               <Wand2 className="mr-2 h-4 w-4" /> AI Suggested Reflection
+                            <h3 className="font-semibold text-primary-foreground/90 text-sm uppercase tracking-wider mb-2 flex items-center">
+                               <Wand2 className="mr-2 h-4 w-4 text-primary" /> AI Suggested Reflection
                             </h3>
                             <Alert className="bg-primary/10 border-primary/20">
                                 <AlertDescription className="text-foreground/90 whitespace-pre-wrap leading-relaxed">
