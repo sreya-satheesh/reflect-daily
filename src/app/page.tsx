@@ -5,7 +5,7 @@ export default function HomePage() {
   const dailyPrompt = getDailyPrompt();
 
   return (
-    <div className="w-full max-w-3xl mx-auto animate-in fade-in duration-500">
+    <div className="w-full max-w-3xl mx-auto animate-in fade-in duration-500 mt-8">
       <h1 className="font-headline text-3xl md:text-4xl font-bold mb-2 mt-8">
         Today's Reflection
       </h1>
