@@ -72,7 +72,7 @@ export default function AiReflections({ entry }: { entry: JournalEntry }) {
       {reflection && (
         <Alert className="bg-primary/10 border-primary/20">
           <Wand2 className="h-4 w-4 text-primary" />
-          <AlertTitle className="font-semibold text-primary-foreground">AI Suggested Reflection</AlertTitle>
+          <AlertTitle className="font-semibold text-primary">AI Suggested Reflection</AlertTitle>
           <AlertDescription className="text-foreground/90 whitespace-pre-wrap leading-relaxed">
             {reflection}
           </AlertDescription>
